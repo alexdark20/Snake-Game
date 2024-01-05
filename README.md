@@ -1,6 +1,6 @@
 # Змійка (Snake) - Гра для iOS
 
-![Snake Logo](snake_Icon.jpeg)
+![Snake Logo](snakeIcon.jpeg)
 
 Цей проект є реалізацією класичної гри "Змійка" для платформи iOS, розробленою мовою програмування Swift та використовуючи графічний двигун SpriteKit.
 
